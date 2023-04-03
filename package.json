@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Mamiololo01/vigorous-carrot/issues"
   },
-  "homepage": "https://github.com/Mamiololo01/vigorous-carrot#readme"
+  "homepage": "https://github.com/Mamiololo01/vigorous-carrot#readme",
+  "dependencies": {
+    "node": "^19.8.1",
+    "react": "^18.2.0"
+  }
 }
